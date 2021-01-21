@@ -18,3 +18,4 @@ function AudioManager:init()
 
 end
 
+-- det bliver bare dødlækkert når det spiller
