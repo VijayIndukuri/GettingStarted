@@ -11,10 +11,8 @@ AudioManager = {neighbours = {},
 
 function AudioManager:init()
 
-    self.isActive = true
-
+    self.isActive = false
     self.masking = {false, false, false, false, false}
-
     -- group            1      2       3       4     5
     self.neighbours = {{2}, {1, 3}, {2, 4}, {3, 5}, {4}}
 
