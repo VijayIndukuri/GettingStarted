@@ -18,4 +18,8 @@ function AudioManager:init()
 
 end
 
+<<<<<<< HEAD
 -- det bliver bare dødlækkert når det spiller
+=======
+---MBP was here---
+>>>>>>> MBP-Test
